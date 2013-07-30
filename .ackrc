@@ -1,0 +1,8 @@
+--pager=less
+--type-set=coffee=.coffee
+--type-set=haml=.haml
+--type-set=erb=.erb
+--type-set=sass=.sass,.scss
+--type-set=DUMB=.log,.scssc
+--noDUMB
+--color
